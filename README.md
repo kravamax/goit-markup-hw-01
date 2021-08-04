@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-My homework 1
+WebStudio single page
